@@ -1,4 +1,4 @@
-### study-of-basic-gates
+# study-of-basic-gates
 
 **AIM:** 
 
@@ -93,4 +93,4 @@ endmodule
 
 **Result:**
 
-
+The basic digital IC’s and verification of truth tables for different logic gates output found successfully.
